@@ -1,0 +1,8 @@
+C:\Users\moback idc\source\repos\OperationInFile\bin\Debug\OperationInFile.exe
+C:\Users\moback idc\source\repos\OperationInFile\bin\Debug\OperationInFile.exe.config
+C:\Users\moback idc\source\repos\OperationInFile\obj\Debug\OperationInFile.csproj.AssemblyReference.cache
+C:\Users\moback idc\source\repos\OperationInFile\obj\Debug\OperationInFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\moback idc\source\repos\OperationInFile\obj\Debug\OperationInFile.csproj.CoreCompileInputs.cache
+C:\Users\moback idc\source\repos\OperationInFile\obj\Debug\OperationInFile.exe
+C:\Users\moback idc\source\repos\OperationInFile\obj\Debug\OperationInFile.pdb
+C:\Users\moback idc\source\repos\OperationInFile\bin\Debug\OperationInFile.pdb
